@@ -1,0 +1,28 @@
+{
+  "name": "niborium-react-starter",
+  "version": "1.0.0",
+  "description": "My own React Starter with react, react-dom and parcel to get started quickly with react in seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niborium/niborium-react-starter.git"
+  },
+  "author": "Niborium (Github)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niborium/niborium-react-starter/issues"
+  },
+  "homepage": "https://github.com/niborium/niborium-react-starter#readme",
+  "dependencies": {
+    "parcel": "^2.6.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
