@@ -11,9 +11,9 @@ My own React Starter with react, react-dom and parcel to get started quickly wit
 7) Start building your components/your project in components, add your components to the app.jsx file
 
 ## Installed packages
-react (18.1.0)\
-react-dom (18.1.0)\
-parcel (2.6.0)
+react (18.2.0)\
+react-dom (18.2.0)\
+parcel (2.8.0)
 
 ## MIT License
 
